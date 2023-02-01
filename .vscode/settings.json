@@ -1,0 +1,6 @@
+{
+    "Lua.diagnostics.disable": ["undefined-global", "unknown-symbol"],
+    "lua.targetVersion": "5.1",
+    "Lua.runtime.version": "Lua 5.1",
+    "Lua.runtime.unicodeName": true
+}
