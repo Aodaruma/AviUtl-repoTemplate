@@ -1,4 +1,17 @@
 {
+    "files.associations": {
+        "*.lua": "lua",
+        "*.anm": "lua",
+        "*.obj": "lua",
+        "*.cam": "lua",
+        "*.tra": "lua",
+        "*.scn": "lua"
+    },
+    "[lua]": {
+        "files.encoding": "shiftjis",
+        "files.autoGuessEncoding": true,
+        "files.eol": "\r\n"
+    },
     "Lua.diagnostics.disable": ["undefined-global", "unknown-symbol"],
     "lua.targetVersion": "5.1",
     "Lua.runtime.version": "Lua 5.1",
